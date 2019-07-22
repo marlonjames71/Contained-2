@@ -25,7 +25,9 @@ Your completed application will look like the following GIF:
 Demonstrate your understanding of today's concepts by answering the following free-form questions. Submit them as a text file along with your project.
 
 * What is controller containment and what does it offer developers?
+        Controller containment is a way to organize a collection of scenes and views in order to navigate easily.
 * What is the difference between navigation and tab controllers? Under what circumstances do you use each one?
+        Navigation controllers allow the user to have context of where the are locationally in the app and allows the user to           easily go back from which they came.
 * Name at least one Apple-supplied iOS application that uses each container class and explain how they're used in each app.
 
 ## Project Setup
